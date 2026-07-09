@@ -10,3 +10,4 @@ Links to in-class p5.js sketches:
     - Bouncing Ball: [https://editor.p5js.org/micahdschuster/sketches/gJmmF10lk](https://editor.p5js.org/micahdschuster/sketches/gJmmF10lk)
 - 07-08:
     - Dart Board: [https://editor.p5js.org/micahdschuster/sketches/nyLAl0rPH](https://editor.p5js.org/micahdschuster/sketches/nyLAl0rPH)
+    - Monte Hall: [https://editor.p5js.org/micahdschuster/sketches/tfxhHWR8p](https://editor.p5js.org/micahdschuster/sketches/tfxhHWR8p)
