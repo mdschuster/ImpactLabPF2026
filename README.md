@@ -11,3 +11,6 @@ Links to in-class p5.js sketches:
 - 07-08:
     - Dart Board: [https://editor.p5js.org/micahdschuster/sketches/nyLAl0rPH](https://editor.p5js.org/micahdschuster/sketches/nyLAl0rPH)
     - Monte Hall: [https://editor.p5js.org/micahdschuster/sketches/tfxhHWR8p](https://editor.p5js.org/micahdschuster/sketches/tfxhHWR8p)
+- 07-09
+    - OOP Ball: [https://editor.p5js.org/micahdschuster/sketches/TrM4xTLTn](https://editor.p5js.org/micahdschuster/sketches/TrM4xTLTn)
+    - Random Walker: [https://editor.p5js.org/micahdschuster/sketches/g2w_zJYqq](https://editor.p5js.org/micahdschuster/sketches/g2w_zJYqq)
