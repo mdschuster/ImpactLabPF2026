@@ -14,3 +14,6 @@ Links to in-class p5.js sketches:
 - 07-09
     - OOP Ball: [https://editor.p5js.org/micahdschuster/sketches/TrM4xTLTn](https://editor.p5js.org/micahdschuster/sketches/TrM4xTLTn)
     - Random Walker: [https://editor.p5js.org/micahdschuster/sketches/g2w_zJYqq](https://editor.p5js.org/micahdschuster/sketches/g2w_zJYqq)
+- 07-13
+    - Paint: [https://editor.p5js.org/micahdschuster/sketches/9OWEf0MN9](https://editor.p5js.org/micahdschuster/sketches/9OWEf0MN9)
+    - Bubbles: [https://editor.p5js.org/micahdschuster/sketches/vnwhK8baR](https://editor.p5js.org/micahdschuster/sketches/vnwhK8baR)
