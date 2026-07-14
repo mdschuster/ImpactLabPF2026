@@ -17,3 +17,5 @@ Links to in-class p5.js sketches:
 - 07-13
     - Paint: [https://editor.p5js.org/micahdschuster/sketches/9OWEf0MN9](https://editor.p5js.org/micahdschuster/sketches/9OWEf0MN9)
     - Bubbles: [https://editor.p5js.org/micahdschuster/sketches/vnwhK8baR](https://editor.p5js.org/micahdschuster/sketches/vnwhK8baR)
+- 07-14
+    - 1D CA: [https://editor.p5js.org/micahdschuster/sketches/8XQnxVSuv](https://editor.p5js.org/micahdschuster/sketches/8XQnxVSuv)
