@@ -21,3 +21,4 @@ Links to in-class p5.js sketches:
     - 1D CA: [https://editor.p5js.org/micahdschuster/sketches/8XQnxVSuv](https://editor.p5js.org/micahdschuster/sketches/8XQnxVSuv)
 - 07-15
     - 2D CA: [https://editor.p5js.org/micahdschuster/sketches/ymqW5Kj1J](https://editor.p5js.org/micahdschuster/sketches/ymqW5Kj1J)
+    - Image Processing [https://editor.p5js.org/micahdschuster/sketches/SKwuUFbrN](https://editor.p5js.org/micahdschuster/sketches/SKwuUFbrN)
