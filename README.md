@@ -22,3 +22,5 @@ Links to in-class p5.js sketches:
 - 07-15
     - 2D CA: [https://editor.p5js.org/micahdschuster/sketches/ymqW5Kj1J](https://editor.p5js.org/micahdschuster/sketches/ymqW5Kj1J)
     - Image Processing [https://editor.p5js.org/micahdschuster/sketches/SKwuUFbrN](https://editor.p5js.org/micahdschuster/sketches/SKwuUFbrN)
+- 07-16
+    - Snake: [https://editor.p5js.org/micahdschuster/sketches/PPHSjps51](https://editor.p5js.org/micahdschuster/sketches/PPHSjps51)
